@@ -62,7 +62,7 @@ Our analysis hones in on the following key variables:
 - **Confirmed Deaths:** Total and new deaths attributed to COVID-19, smoothed averages, and deaths per million people.
 - **Vaccinations:** Total doses administered, people vaccinated, fully vaccinated, and booster doses.
 
-The dataset we're using contains 390,786 rows spanning from January 1, 2020, to April 18, 2024. It is divided into two CSV files for easier analysis:
+The dataset we're using contains 390,786 rows spanning from January 1, 2020, to April 18, 2024. It is divided into two CSV files:
 
 - **CovidDeaths.csv**: Contains the data on confirmed cases and deaths.
 - **CovidVaccinations.csv**: Contains the data on vaccinations.
