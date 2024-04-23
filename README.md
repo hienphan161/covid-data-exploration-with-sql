@@ -52,7 +52,7 @@ In the face of the global COVID-19 pandemic, understanding the data behind the n
 
 This project not only showcases SQL proficiency but also aims to uncover trends, disparities, and progress in the fight against COVID-19. Join us on this data-driven journey as we unravel the story behind the numbers.
 
-# Overview of the dataset
+## Overview of the dataset
 
 In this project, we focus on analyzing specific aspects of the extensive [COVID-19 dataset](https://ourworldindata.org/covid-deaths). This dataset is diligently maintained by [Our World in Data](https://ourworldindata.org), with daily updates to ensure it reflects the latest information relevant to the COVID-19 pandemic. It encompasses a diverse range of crucial metrics sourced from reputable institutions, guaranteeing accuracy and reliability.
 
