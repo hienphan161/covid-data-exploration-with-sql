@@ -52,7 +52,7 @@ In the face of the global COVID-19 pandemic, understanding the data behind the n
 
 This project not only showcases SQL proficiency but also aims to uncover trends, disparities, and progress in the fight against COVID-19. Join us on this data-driven journey as we unravel the story behind the numbers.
 
-# Overview of the dataset
+## Overview of the dataset
 
 In this project, we focus on analyzing specific aspects of the extensive [COVID-19 dataset](https://ourworldindata.org/covid-deaths). This dataset is diligently maintained by [Our World in Data](https://ourworldindata.org), with daily updates to ensure it reflects the latest information relevant to the COVID-19 pandemic. It encompasses a diverse range of crucial metrics sourced from reputable institutions, guaranteeing accuracy and reliability.
 
@@ -62,7 +62,7 @@ Our analysis hones in on the following key variables:
 - **Confirmed Deaths:** Total and new deaths attributed to COVID-19, smoothed averages, and deaths per million people.
 - **Vaccinations:** Total doses administered, people vaccinated, fully vaccinated, and booster doses.
 
-The dataset we're using contains 390,786 rows spanning from January 1, 2020, to April 18, 2024. It is divided into two CSV files for easier analysis:
+The dataset we're using contains 390,786 rows spanning from January 1, 2020, to April 18, 2024. It is divided into two CSV files:
 
 - **CovidDeaths.csv**: Contains the data on confirmed cases and deaths.
 - **CovidVaccinations.csv**: Contains the data on vaccinations.
