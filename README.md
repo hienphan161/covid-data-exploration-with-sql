@@ -2,7 +2,7 @@
 
 # Introduction
 
-In the face of the global COVID-19 pandemic, understanding the data behind the numbers is crucial. This project dives deep into COVID-19 datasets, leveraging data analysis and SQL querying to extract meaningful insights. We explore key metrics such as total cases, deaths, vaccinations, and their percentages, shedding light on the pandemic's impact worldwide.
+In this project, we delve into the extensive dataset of COVID-19, utilizing a range of SQL skills to extract meaningful insights. The dataset encompasses vital statistics on COVID-19 cases, deaths, population demographics, and vaccination progress across various locations and continents.
 
 ## Project Highlights
 
