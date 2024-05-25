@@ -6,32 +6,25 @@ In the face of the global COVID-19 pandemic, understanding the data behind the n
 
 ## Project Highlights
 
-1. **Connect to the Database:**
-   - Utilize SQLite to connect to an SQLite database for efficient data manipulation.
+1. **Initial Data Exploration:**
+- A look at the core dataset focusing on COVID-19 cases and population statistics.
+- Understanding the progression of total cases, deaths, and infection rates.
 
-2. **Load the Dataset:**
-   - Import COVID-19 datasets from CSV files into the SQLite database for easy access.
+2. **Country-specific Analysis:**
+- Examining the likelihood of death if infected and the percentage of population infected.
+- Identifying countries with the highest infection rates and death counts.
 
-3. **Data Exploration:**
-   - Preprocess `COVID_DEATHS` and `COVID_VACCINATIONS` datasets, correcting data types and creating processed tables.
+3. **Continental Breakdown:**
+- Analyzing continents with the highest death counts per population.
+- Understanding the global impact on different regions.
 
-4. **Global COVID-19 Overview:**
-   - Analyze global COVID-19 statistics, including total cases, deaths, vaccination efforts, and related percentages.
-   - Visualize trends in new COVID-19 cases, deaths, and vaccinations worldwide over time.
+4. **Vaccination Progress:**
+- Tracking the percentage of the population vaccinated.
+- Utilizing various methods like CTEs and temporary tables for calculations.
 
-5. **COVID-19 Impact Across Continents:**
-   - Explore COVID-19 metrics for continents, examining infection rates, mortality, and vaccination progress.
-
-6. **COVID-19 Impact Across Income Levels:**
-   - Analyze COVID-19 impact and vaccination responses based on income levels, highlighting disparities.
-
-7. **COVID-19 Impact Across Countries:**
-   - Delve into COVID-19 metrics for individual countries, focusing on population, total cases, deaths, vaccinations, and trends.
-   - Visualize regional patterns, vaccination progress, and challenges faced by countries.
-
-8. **COVID-19 Trends in Vietnam:**
-   - Focus specifically on Vietnam's COVID-19 situation, examining total cases, deaths, vaccinations, and trends over time.
-   - Visualize the progression of the pandemic in Vietnam, highlighting key insights.
+5. **Data Storage and Future Use:**
+- Creating a view for easy access to vaccination and demographic data.
+- Setting the stage for insightful visualizations and further analysis.
 
 ## Skills Utilized
 
